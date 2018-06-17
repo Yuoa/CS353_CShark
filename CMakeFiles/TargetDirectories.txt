@@ -1,3 +1,0 @@
-/home/yuoa/lecture/cs353/CMakeFiles/rebuild_cache.dir
-/home/yuoa/lecture/cs353/CMakeFiles/CShark.dir
-/home/yuoa/lecture/cs353/CMakeFiles/edit_cache.dir
